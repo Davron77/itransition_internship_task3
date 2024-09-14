@@ -1,2 +1,5 @@
-"# itransition_internship_task3" 
-node game.js rock paper scissors
+# Rock-Paper-Scissors-Lizard-Spock Game with HMAC
+
+### Launching the game
+```bash
+node index.js rock paper scissors lizard spock
