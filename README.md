@@ -2,4 +2,4 @@
 
 ### Launching the game
 ```bash
-node index.js rock paper scissors lizard spock
+node game.js rock paper scissors lizard spock
